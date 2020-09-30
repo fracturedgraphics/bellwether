@@ -1,1 +1,1 @@
-# bellwether-core
+# bellwether
