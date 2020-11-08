@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/fracturedgraphics/bellwether#readme",
   "dependencies": {
-    "@fracturedgraphics/bellwether-styles": "0.1.0"
+    "@fracturedgraphics/bellwether-components": "0.1.0",
+    "@fracturedgraphics/bellwether-styles": "0.3.1"
   }
 }
