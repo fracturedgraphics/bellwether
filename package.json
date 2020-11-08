@@ -1,6 +1,6 @@
 {
   "name": "@fracturedgraphics/bellwether",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Main package for the bellwether library.",
   "files": [
     "LICENSE"
@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/fracturedgraphics/bellwether#readme",
   "dependencies": {
-    "@fracturedgraphics/bellwether-styles": "0.1.0"
+    "@fracturedgraphics/bellwether-components": "0.1.0",
+    "@fracturedgraphics/bellwether-styles": "0.3.1"
   }
 }
